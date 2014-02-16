@@ -9,6 +9,6 @@
 #import <Foundation/Foundation.h>
 
 @interface Library : NSObject
-@property (nonatomic) NSString *myString;
+@property (nonatomic) NSString *myStrin;
 
 @end
